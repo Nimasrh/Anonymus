@@ -113,6 +113,6 @@
                 window.location.href='../index.php';
             </script>";
         }
-    
+    ?>
   </body>
 </html>
